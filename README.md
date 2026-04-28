@@ -21,15 +21,15 @@ This repository is built for **real estate agents, property marketers, architect
 
 ---
 
+<!-- CLIPRISE_LINKING_START -->
 ## Related Cliprise GitHub resources
 
-- [Awesome Image-to-Video Prompts](https://github.com/cliprise/awesome-image-to-video-prompts)
-- [Best AI Video Generator Resources](https://github.com/cliprise/best-ai-video-generator-resources)
-- [Awesome AI Product Video Prompts](https://github.com/cliprise/awesome-ai-product-video-prompts)
-- [Best AI Image Generator Resources](https://github.com/cliprise/best-ai-image-generator-resources)
-
----
-
+- [Awesome image-to-video prompts](https://github.com/cliprise/awesome-image-to-video-prompts) - still-to-motion workflows, camera language, and source-frame discipline.
+- [Best AI video generator resources](https://github.com/cliprise/best-ai-video-generator-resources) - comparison frameworks, cost signals, and workflow starters for AI video generation.
+- [Best AI image generator resources](https://github.com/cliprise/best-ai-image-generator-resources) - tested rankings, use-case fit, and editing paths for AI image generation.
+- [Awesome AI product video prompts](https://github.com/cliprise/awesome-ai-product-video-prompts) - demo, PDP, and e-commerce video oriented prompts.
+- [Awesome AI video ads prompts](https://github.com/cliprise/awesome-ai-video-ads-prompts) - paid social and performance video ad prompt structures.
+<!-- CLIPRISE_LINKING_END -->
 ## What this repository is
 
 This repository is a practical resource hub for users searching for:
